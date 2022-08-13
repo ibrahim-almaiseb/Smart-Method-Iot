@@ -5,6 +5,10 @@ the sorting of the read me file :
 
 2-turning robot arm.
 
+3.POST and GET from database
+
+4.Control robot movement using a website
+
 
 Speach To textWebapp
 1. Create a project on the Google Cloud Platform and enable the 'Cloud Speech-to-Text API' for the project.
@@ -100,7 +104,9 @@ Explanation Walkthrough:
 ![image](https://user-images.githubusercontent.com/109418411/184507348-4da71be8-b180-4e14-95d3-9866b7f6ef1e.png)
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Task 4: Control robot movement using a website:
+
+
+Task 4: Control robot movement using a websiteControl robot movement using a website:
 
 In this task we have made a website with buttons to control the robot, either move forward/backward or turn right/left
 ![image](https://user-images.githubusercontent.com/109418411/184507449-cf726c8a-ab2e-4de4-9057-1203cd1ea3ac.png)
